@@ -1,0 +1,1261 @@
+@media (max-width: 1600px) {
+  .container {
+    max-width: 1350px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .container {
+    max-width: 1160px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .container {
+    max-width: 950px;
+  }
+}
+
+@media (max-width: 992px) {
+  .container {
+    max-width: 750px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 580px;
+  }
+}
+
+@media (max-width: 580px) {
+  .container {
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 1600px) {
+  .header__text {
+    margin-left: 0;
+  }
+
+  .banner__items {
+    height: 560px;
+  }
+
+  .banner__logo {
+    width: 200px;
+    height: 130px;
+  }
+
+  .banner__content span {
+    font-size: 20px;
+  }
+
+  .about__item {
+    padding-left: 30px;
+  }
+
+  .about__info h2 br {
+    display: none;
+  }
+
+  .about__item-text {
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  .about__text br {
+    display: none;
+  }
+
+  .title {
+    font-size: 34px;
+  }
+
+  .sale__darsan-wrapper {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
+
+  .darsan__icon1 {
+    position: absolute;
+    top: 310px;
+    left: 270px;
+    z-index: 9;
+  }
+
+  .darsan__icon2 {
+    position: absolute;
+    top: 350px;
+    left: 360px;
+    z-index: 9;
+  }
+
+  .darsan__icon3 {
+    position: absolute;
+    top: 400px;
+    left: 440px;
+    z-index: 9;
+  }
+
+  .darsan__icon4 {
+    position: absolute;
+    top: 160px;
+    left: 570px;
+    z-index: 9;
+  }
+
+  .darsan__icon5 {
+    position: absolute;
+    top: 180px;
+    left: 650px;
+    z-index: 9;
+  }
+
+  .darsan__icon6 {
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    z-index: 9;
+  }
+
+  .darsan__icon7 {
+    position: absolute;
+    top: 230px;
+    left: 870px;
+    z-index: 9;
+  }
+
+  .darsan__icon9 {
+    position: absolute;
+    top: 260px;
+    left: 1030px;
+    z-index: 9;
+  }
+
+  .darsan__icon8 {
+    position: absolute;
+    top: 90px;
+    left: 1030px;
+    z-index: 9;
+  }
+
+  .darsan__icon10 {
+    position: absolute;
+    top: 110px;
+    left: 1170px;
+    z-index: 9;
+  }
+
+  .darsan__logo {
+    width: 300px;
+  }
+
+  .darsan {
+    padding-top: 150px;
+    padding-bottom: 70px;
+    background-position: 20%;
+  }
+
+  .darsan__wrapper h1 {
+    font-size: 44px;
+    line-height: 50px;
+    margin-top: 60px;
+  }
+
+  .darsan__wrapper h2 {
+    font-size: 30px;
+    line-height: 42px;
+  }
+
+  .darsan__wrapper p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 80px;
+  }
+  #map-locations {
+    max-height: 630px;
+  }
+  ymaps {
+    max-height: 630px;
+  }
+  .place {
+    height: 700px;
+  }
+
+  .place__arrow {
+    position: absolute;
+    top: 211px;
+    left: 824px;
+  }
+
+  .communication__image {
+    height: 650px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .header .container {
+    max-width: 100%;
+  }
+
+  .banner h1 {
+    font-size: 36px;
+    line-height: 44px;
+    padding: 25px 0;
+  }
+
+  .banner__content span {
+    font-size: 20px;
+  }
+
+  .banner__logo {
+    width: 200px;
+    height: 130px;
+  }
+
+  .client__magazine {
+    width: 900px;
+    left: 20%;
+    bottom: -200px;
+  }
+
+  .client__info {
+    padding: 35px 45px;
+  }
+
+  .client__item {
+    padding-bottom: 25px;
+  }
+
+  .about__item-text {
+    margin-top: 35px;
+  }
+
+  .client__item p {
+    font-size: 14px;
+    line-height: 23px;
+  }
+
+  .footer {
+    margin-top: 100px;
+  }
+
+  .header__text {
+    gap: 25px;
+  }
+
+  .header__links {
+    gap: 25px;
+  }
+
+  .header__logo {
+    width: 100px;
+  }
+
+  .header__logo img {
+    width: 100%;
+  }
+
+  .footer__contacts-actions {
+    align-items: center;
+  }
+
+  .footer__contacts-actions a {
+    font-size: 15px;
+  }
+
+  .advantages__item {
+    padding-top: 25px;
+    padding-left: 25px;
+  }
+
+  .advantages__title p {
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .advantages__title img {
+    width: 20%;
+  }
+
+  .btn-main {
+    margin-left: 0;
+  }
+
+  .darsan__logo {
+    width: 270px;
+  }
+
+  .darsan {
+    background-position: 30% !important;
+    padding-top: 130px;
+    padding-bottom: 60px;
+  }
+
+  .darsan__wrapper h1 {
+    font-size: 40px;
+    line-height: 46px;
+    margin-top: 40px;
+  }
+
+  .darsan__wrapper h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .darsan__wrapper p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 80px;
+  }
+  #map-locations {
+    max-height: 530px;
+  }
+  ymaps {
+    max-height: 530px;
+  }
+
+  .list-locations {
+    gap: 10px;
+  }
+
+  .locations__wrapper {
+    left: 200px;
+  }
+
+  .place {
+    height: 550px;
+  }
+
+  .place__title {
+    font-size: 34px;
+    line-height: 44px;
+  }
+
+  .place__arrow {
+    position: absolute;
+    top: 130px;
+    left: 644px;
+  }
+
+  .place__logo {
+    position: absolute;
+    top: 170px;
+    left: 890px;
+  }
+
+  .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .communication__image {
+    height: 550px;
+    background-position: center;
+    padding-left: 30px;
+    padding-bottom: 10px;
+  }
+
+  .sale__darsan-wrapper {
+    height: 600px;
+  }
+
+  .offer__item {
+    margin-right: 15px;
+  }
+
+  .darsan__icon1 {
+    position: absolute;
+    top: 220px;
+    left: 240px;
+    z-index: 9;
+  }
+
+  .darsan__icon2 {
+    position: absolute;
+    top: 260px;
+    left: 300px;
+    z-index: 9;
+  }
+
+  .darsan__icon3 {
+    position: absolute;
+    top: 300px;
+    left: 360px;
+    z-index: 9;
+  }
+
+  .darsan__icon4 {
+    position: absolute;
+    top: 90px;
+    left: 480px;
+    z-index: 9;
+  }
+
+  .darsan__icon5 {
+    position: absolute;
+    top: 110px;
+    left: 550px;
+    z-index: 9;
+  }
+
+  .darsan__icon6 {
+    position: absolute;
+    top: 130px;
+    left: 630px;
+    z-index: 9;
+  }
+
+  .darsan__icon7 {
+    position: absolute;
+    top: 150px;
+    left: 730px;
+    z-index: 9;
+  }
+
+  .darsan__icon9 {
+    position: absolute;
+    top: 180px;
+    left: 870px;
+    z-index: 9;
+  }
+
+  .darsan__icon8 {
+    position: absolute;
+    top: 20px;
+    left: 880px;
+    z-index: 9;
+  }
+
+  .darsan__icon10 {
+    position: absolute;
+    top: 40px;
+    left: 1000px;
+    z-index: 9;
+  }
+
+  .offer__item-arrow {
+    display: none;
+  }
+}
+
+@media (max-width: 1200px) {
+  .banner h1 {
+    margin-top: 80px;
+    font-size: 30px;
+    line-height: 40px;
+    padding: 25px 0;
+  }
+
+  .banner__content span {
+    font-size: 16px;
+  }
+
+  .banner__logo {
+    width: 170px;
+    height: 100px;
+  }
+
+  .about {
+    margin-top: 100px;
+  }
+
+  .about__item {
+    padding-bottom: 40px;
+  }
+
+  .header__text p:last-child {
+    display: none;
+  }
+
+  .advantages__title {
+    gap: 12px;
+  }
+
+  .advantages__title img {
+    width: 20%;
+  }
+
+  .advantages__title p {
+    font-size: 16px;
+  }
+
+  .client__magazine {
+    display: none;
+  }
+
+  .advantages__item-text {
+    margin-top: 18px;
+  }
+
+  .advantages__item-text {
+    font-size: 14px;
+  }
+
+  .about__image {
+    display: none;
+  }
+
+  .btn-main {
+    margin-left: -20px;
+    font-size: 14px;
+  }
+
+  .footer {
+    margin-top: 0;
+  }
+
+  .footer__logo {
+    width: 200px;
+  }
+
+  .footer__logo img {
+    width: 100%;
+  }
+
+  .footer__partner-icon {
+    width: 70px;
+  }
+
+  .footer__partner-icon img {
+    width: 100%;
+  }
+
+  .client__title {
+    font-size: 34px;
+    line-height: 44px;
+  }
+
+  .checkbox label > span:before {
+    left: -16px;
+  }
+  .checkbox label > span:after {
+    left: -16px;
+  }
+
+  .sale__darsan-wrapper {
+    height: 500px;
+  }
+
+  .darsan__icon1 {
+    position: absolute;
+    top: 180px;
+    left: 190px;
+    z-index: 9;
+  }
+
+  .darsan__icon2 {
+    position: absolute;
+    top: 210px;
+    left: 250px;
+    z-index: 9;
+  }
+
+  .darsan__icon3 {
+    position: absolute;
+    top: 240px;
+    left: 310px;
+    z-index: 9;
+  }
+
+  .darsan__icon4 {
+    position: absolute;
+    top: 70px;
+    left: 390px;
+    z-index: 9;
+  }
+
+  .darsan__icon5 {
+    position: absolute;
+    top: 85px;
+    left: 450px;
+    z-index: 9;
+  }
+
+  .darsan__icon6 {
+    position: absolute;
+    top: 100px;
+    left: 520px;
+    z-index: 9;
+  }
+
+  .darsan__icon7 {
+    position: absolute;
+    top: 120px;
+    left: 600px;
+    z-index: 9;
+  }
+
+  .darsan__icon9 {
+    position: absolute;
+    top: 135px;
+    left: 700px;
+    z-index: 9;
+  }
+
+  .darsan__icon8 {
+    position: absolute;
+    top: 20px;
+    left: 720px;
+    z-index: 9;
+  }
+
+  .darsan__icon10 {
+    position: absolute;
+    top: 40px;
+    left: 800px;
+    z-index: 9;
+  }
+
+  .offer__item-price {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  .offer__item-content {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.2%;
+  }
+
+  .offer__item-text span {
+    text-align: center;
+    width: 100%;
+  }
+
+  .locations__wrapper {
+    left: 130px;
+  }
+
+  .place__arrow {
+    width: 160px;
+    top: 170px;
+    left: 640px;
+  }
+
+  .place__arrow img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .place__logo {
+    width: 180px;
+    top: 200px;
+    left: 810px;
+  }
+
+  .place__logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .communication__image {
+    height: 480px;
+  }
+}
+
+@media (max-width: 992px) {
+  .header__logo {
+    width: 140px;
+  }
+
+  .header__text {
+    display: none;
+  }
+
+  .header__links {
+    display: none;
+  }
+
+  .header.active {
+    box-shadow: none;
+  }
+
+  .sandwich.active.header {
+    box-shadow: none;
+  }
+
+  .sandwich {
+    display: block;
+  }
+
+  .header__mobile {
+    width: 100%;
+    position: fixed;
+    top: 100px;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0px 4px 4px 0px #ededed;
+    padding: 40px 80px;
+  }
+
+  .header__mobile-links {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .header__mobile-links a {
+    color: #544e4d !important;
+  }
+
+  .header__mobile-text {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .header__mobile-contacts {
+    display: none;
+  }
+
+  .banner__items {
+    height: auto;
+  }
+
+  .banner__logo {
+    z-index: 999;
+  }
+
+  .banner {
+    position: relative;
+  }
+
+  .banner__slider-controls {
+    position: absolute;
+    bottom: 70px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    width: 90%;
+    margin: 0 auto;
+    z-index: 10;
+  }
+
+  .title {
+    font-size: 26px;
+    line-height: 38px;
+  }
+
+  .banner h1 {
+    margin-top: 100px;
+  }
+
+  .about-flex {
+    margin-top: 20px;
+  }
+
+  .advantages__title img {
+    width: 10%;
+  }
+
+  .client__title {
+    padding-bottom: 50px;
+  }
+
+  .footer-flex {
+    margin-top: 50px;
+  }
+
+  .footer__authors {
+    gap: 50px;
+  }
+
+  .sale__darsan-wrapper {
+    height: 365px;
+  }
+
+  .darsan__icon1 {
+    position: absolute;
+    top: 110px;
+    left: 140px;
+    z-index: 9;
+  }
+
+  .darsan__icon2 {
+    position: absolute;
+    top: 135px;
+    left: 190px;
+    z-index: 9;
+  }
+
+  .darsan__icon3 {
+    position: absolute;
+    top: 165px;
+    left: 240px;
+    z-index: 9;
+  }
+
+  .darsan__icon4 {
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    z-index: 9;
+  }
+
+  .darsan__icon5 {
+    position: absolute;
+    top: 40px;
+    left: 345px;
+    z-index: 9;
+  }
+
+  .darsan__icon6 {
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    z-index: 9;
+  }
+
+  .darsan__icon7 {
+    position: absolute;
+    top: 65px;
+    left: 460px;
+    z-index: 9;
+  }
+
+  .darsan__icon9 {
+    position: absolute;
+    top: 90px;
+    left: 540px;
+    z-index: 9;
+  }
+
+  .darsan__icon8 {
+    position: absolute;
+    top: 5px;
+    left: 550px;
+    z-index: 9;
+  }
+
+  .darsan__icon10 {
+    position: absolute;
+    top: 15px;
+    left: 630px;
+    z-index: 9;
+  }
+
+  .darsan__content {
+    display: none !important;
+  }
+
+  .place__arrow {
+    top: 330px;
+    left: 500px;
+    transform: rotate(125deg);
+  }
+
+  .place__logo {
+    top: 470px;
+    left: 350px;
+  }
+
+  .place__title {
+    font-size: 26px;
+    line-height: 36px;
+  }
+
+  .locations__wrapper {
+    left: 50px;
+  }
+
+  .modal-product .title {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header__logo {
+    width: 100px;
+  }
+
+  .header__contacts {
+    display: none;
+  }
+
+  .header__mobile {
+    top: 73px;
+  }
+
+  .header__mobile-contacts {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .header__mobile-text {
+    margin-top: 30px;
+  }
+
+  .banner h1 {
+    margin-top: 70px;
+    font-size: 26px;
+  }
+
+  .darsan__icon1,
+  .darsan__icon2,
+  .darsan__icon3,
+  .darsan__icon4,
+  .darsan__icon5,
+  .darsan__icon6,
+  .darsan__icon7,
+  .darsan__icon8,
+  .darsan__icon9,
+  .darsan__icon10 {
+    width: 30px;
+    height: 30px;
+  }
+
+  .darsan__icon1 img,
+  .darsan__icon2 img,
+  .darsan__icon3 img,
+  .darsan__icon4 img,
+  .darsan__icon5 img,
+  .darsan__icon6 img,
+  .darsan__icon7 img,
+  .darsan__icon8 img,
+  .darsan__icon9 img,
+  .darsan__icon10 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .sale__darsan-wrapper {
+    margin: 0 auto;
+    width: 320px;
+    height: 190px;
+  }
+
+  .darsan__icon1 {
+    position: absolute;
+    top: 55px;
+    left: 55px;
+    z-index: 9;
+  }
+
+  .darsan__icon2 {
+    position: absolute;
+    top: 65px;
+    left: 80px;
+    z-index: 9;
+  }
+
+  .darsan__icon3 {
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    z-index: 9;
+  }
+
+  .darsan__icon4 {
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    z-index: 9;
+  }
+
+  .darsan__icon5 {
+    position: absolute;
+    top: 25px;
+    left: 150px;
+    z-index: 9;
+  }
+
+  .darsan__icon6 {
+    position: absolute;
+    top: 35px;
+    left: 175px;
+    z-index: 9;
+  }
+
+  .darsan__icon7 {
+    position: absolute;
+    top: 40px;
+    left: 200px;
+    z-index: 9;
+  }
+
+  .darsan__icon9 {
+    position: absolute;
+    top: 55px;
+    left: 235px;
+    z-index: 9;
+  }
+
+  .darsan__icon8 {
+    position: absolute;
+    top: 5px;
+    left: 240px;
+    z-index: 9;
+  }
+
+  .darsan__icon10 {
+    position: absolute;
+    top: 10px;
+    left: 275px;
+    z-index: 9;
+  }
+
+  .sale {
+    margin-top: 50px;
+  }
+  .offer {
+    padding-top: 30px;
+    margin-top: 50px;
+  }
+  .offer__items {
+    margin-top: 30px;
+  }
+
+  .slick-prev-offer,
+  .slick-next-offer {
+    width: 40px;
+    height: 40px;
+  }
+
+  .slick-prev-offer img,
+  .slick-next-offer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .place {
+    background-position: 30%;
+  }
+
+  .place__arrow {
+    width: 130px;
+    top: 320px;
+    left: 370px;
+    transform: rotate(115deg);
+  }
+
+  .place__logo {
+    left: 270px;
+  }
+
+  .title {
+    font-size: 21px;
+    line-height: 30px;
+  }
+
+  .place {
+    margin-top: 50px;
+  }
+
+  .slick-prev-offer {
+    margin-right: -5px;
+  }
+
+  .locations__wrapper {
+    position: static;
+    width: 100%;
+    height: 200px;
+    overflow: auto;
+  }
+
+  #map-locations {
+    max-height: 300px;
+  }
+
+  ymaps {
+    max-height: 300px;
+  }
+
+  .locations__wrapper p {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+
+  .locations__wrapper p br {
+    display: none;
+  }
+
+  .location__number {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+  }
+
+  .communication__items {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .communication__image p {
+    margin-bottom: 0;
+  }
+
+  .communication__image p {
+    display: none;
+  }
+}
+
+@media (max-width: 580px) {
+  .banner h1 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .title {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .about__text {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .advantages,
+  .about,
+  .client {
+    margin-top: 50px;
+  }
+
+  .advantages__items {
+    margin-top: 0;
+  }
+
+  .client__title {
+    font-size: 26px;
+    line-height: 35px;
+  }
+
+  .footer__logo {
+    width: 120px;
+    padding-bottom: 20px;
+  }
+
+  .footer__authors {
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+  }
+
+  .header__mobile-contacts {
+    flex-direction: column;
+    align-items: start;
+    gap: 10px;
+  }
+
+  .header__tel {
+    gap: 6px;
+  }
+
+  .footer-flex {
+    margin-top: 20px;
+  }
+
+  .footer .row > div {
+    flex-basis: 100%;
+    max-width: 50%;
+  }
+
+  .footer__contacts-actions {
+    flex-wrap: wrap;
+  }
+
+  .footer__contacts-actions a {
+    margin-bottom: 0;
+  }
+  .footer__tg {
+    order: 1;
+  }
+
+  .footer__wa {
+    order: 2;
+  }
+
+  .footer__tel {
+    order: 3;
+    padding-bottom: 20px;
+  }
+
+  .footer__contacts-text {
+    font-size: 12px;
+  }
+
+  .checkbox label > span:before {
+    left: -20px;
+  }
+  .checkbox label > span:after {
+    left: -20px;
+  }
+
+  .btn-main {
+    width: 100%;
+    margin: 35px auto 0;
+  }
+
+  .slick-next {
+    right: 20px;
+  }
+
+  .place__title {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .place__arrow {
+    display: none;
+  }
+
+  .place__logo {
+    left: 20px;
+  }
+
+  .locations__wrapper p {
+    max-width: 230px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  .list-locations li {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  .darsan__wrapper h1 {
+    font-size: 26px;
+    line-height: 35px;
+    font-weight: 600;
+  }
+
+  .darsan__wrapper h2 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .darsan__wrapper p br {
+    display: none;
+  }
+
+  .darsan__wrapper p {
+    font-size: 16px;
+    line-height: 23px;
+  }
+
+  .header__mobile-links {
+    gap: 10px;
+  }
+
+  .sandwich.active .sw-footer {
+    top: 0.353vw;
+    transform: rotate(-45deg);
+  }
+
+  .header__mobile {
+    padding: 40px 30px;
+  }
+}
